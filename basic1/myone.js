@@ -1,0 +1,1 @@
+console.log("I am Shrawak, and this is simple print command of javascript")
